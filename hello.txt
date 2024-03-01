@@ -1,0 +1,6 @@
+    ========
+
+                    Hello, Git!
+         I'm a beginner in using Github
+
+    ========
